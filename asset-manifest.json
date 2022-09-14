@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/CatDog/static/js/main.c6865a3c.js",
+    "main.js": "/CatDog/static/js/main.30b19657.js",
     "static/media/CatDog.svg": "/CatDog/static/media/CatDog.c24690bc7502f935f795c9c67925a99b.svg",
     "index.html": "/CatDog/index.html",
-    "main.c6865a3c.js.map": "/CatDog/static/js/main.c6865a3c.js.map"
+    "main.30b19657.js.map": "/CatDog/static/js/main.30b19657.js.map"
   },
   "entrypoints": [
-    "static/js/main.c6865a3c.js"
+    "static/js/main.30b19657.js"
   ]
 }
